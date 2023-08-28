@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #793FDF;
+  background-color: #97fff4;
 }
 
 .container {
@@ -37,7 +37,8 @@ input[type="text"] {
 }
 
 button {
-  background-color: #007bff;
+  margin-left: 5px;
+  background-color: #97fff4;
   color: #000;
   border: none;
   border-radius: 3px;
