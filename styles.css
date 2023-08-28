@@ -35,6 +35,9 @@ input[type="text"] {
   border: 1px solid #ccc;
   border-radius: 3px;
 }
+.taskText {
+  color: #fff;
+}
 
 button {
   margin-left: 5px;
